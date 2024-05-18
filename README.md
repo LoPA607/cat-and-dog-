@@ -1,2 +1,3 @@
 # cat-and-dog-
-CNN
+CNN<br>
+This project is based on model of CNN
